@@ -1,1 +1,2 @@
 Second file. First Entry
+A new change to an existing file made on my local machine
