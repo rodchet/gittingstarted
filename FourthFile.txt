@@ -1,3 +1,4 @@
 
 Test text added from linux vm
 
+One more fucking edit. Sync server and local machine. Server it up
