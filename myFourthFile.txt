@@ -1,1 +1,2 @@
 A new fourth file created in sublime text in the cloned directory.
+An additional edit made via nano on the linux VM. We persist.
