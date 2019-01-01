@@ -1,1 +1,2 @@
 First file. First Entry
+The second entry made to an existing file
